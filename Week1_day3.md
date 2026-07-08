@@ -33,7 +33,7 @@ Identified and resolved common SSH login issues.
 
 Successfully established SSH connections between:
 
-- macOS → Linux
-- Linux → macOS
+- Linux(virtual box) → Linux (Bootable)
+- Linux (Bootable) → Linux (virtual box)
 
 Learned how to troubleshoot authentication, network, and configuration-related SSH problems.
